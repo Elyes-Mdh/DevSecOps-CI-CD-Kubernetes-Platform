@@ -14,18 +14,18 @@ The project aims to:
 
 ## 🛠️ Technologies
 
-# 🔄 CI/CD & Containerization
+### 🔄 CI/CD & Containerization
 
 - 🦊 **GitLab** — Source code management & CI/CD
 - 🐳 **Docker** — Containerization
 
-# 🔐 Security
+### 🔐 Security
 
 - 🔍 **GitLab SAST** — Static Application Security Testing
 - 🧪 **Semgrep** — Static code security analysis
 - 🛡️ **Trivy** — Docker image vulnerability scanning
 
-# ☸️ Deployment & Monitoring
+### ☸️ Deployment & Monitoring
 
 - ☸️ **k3s** — Lightweight Kubernetes cluster
 - 🚀 **Argo CD** — GitOps & automated deployment
