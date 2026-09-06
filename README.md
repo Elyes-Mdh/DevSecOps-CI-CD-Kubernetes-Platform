@@ -1,4 +1,4 @@
-### ⚙️ DevSecOps CI/CD & Kubernetes Platform
+# ⚙️ DevSecOps CI/CD & Kubernetes Platform
 
 ## 🎯 Objective
 
