@@ -45,5 +45,29 @@ The project is divided into two main environments:
 
 
 ## 📸 Project Screenshots
+<br>
+<br>
+
+<img width="1586" height="791" alt="Capture d&#39;écran 2026-09-06 102556" src="https://github.com/user-attachments/assets/8d066b8b-a7e7-41a6-9b77-67dfe27ae17a" />
+
+<br>
+<br>
+
+<img width="676" height="428" alt="Capture d&#39;écran 2026-09-05 112725" src="https://github.com/user-attachments/assets/ab1a4ed0-97c5-4908-b2ad-329fabd15c4c" />
+
+<br>
+<br>
+
+<img width="1097" height="207" alt="Capture d&#39;écran 2026-09-05 123657" src="https://github.com/user-attachments/assets/d0262e01-35cf-4482-b449-8a060540f616" />
+
+<br>
+<br>
+
+<img width="738" height="365" alt="Capture d&#39;écran 2026-07-19 100810" src="https://github.com/user-attachments/assets/3593bf6b-8eb9-49d6-9270-3d7f658660be" />
+
+<br>
+<br>
+
+<img width="1497" height="675" alt="Capture d&#39;écran 2026-09-05 123950" src="https://github.com/user-attachments/assets/c98fe507-3030-463a-b294-653b53fa0c15" />
 
 
