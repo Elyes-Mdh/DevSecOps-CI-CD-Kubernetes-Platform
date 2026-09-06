@@ -32,3 +32,13 @@ The project aims to:
 - 📈 **Prometheus** — Monitoring & metrics collection
 - 📊 **Grafana** — Metrics visualization
 - 🚨 **Alertmanager** — Alert management
+
+## 🏗️ Architecture
+<br>
+<br>
+<img width="1536" height="1024" alt="image" src="https://github.com/user-attachments/assets/e3ac8dde-67f9-45e1-a743-ae592e49279a" />
+
+The project is divided into two main environments:
+
+- 🔄 **CI/CD & Security** — GitLab, Docker, GitLab SAST, Semgrep and Trivy.
+- ☸️ **Runtime & Monitoring** — k3s, Argo CD, Prometheus, Grafana and Alertmanager.
