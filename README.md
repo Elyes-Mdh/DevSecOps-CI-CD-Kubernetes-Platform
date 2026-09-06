@@ -42,3 +42,8 @@ The project is divided into two main environments:
 
 - 🔄 **CI/CD & Security** — GitLab, Docker, GitLab SAST, Semgrep and Trivy.
 - ☸️ **Runtime & Monitoring** — k3s, Argo CD, Prometheus, Grafana and Alertmanager.
+
+
+## 📸 Project Screenshots
+
+
